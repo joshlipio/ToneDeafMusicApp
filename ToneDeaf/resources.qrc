@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/&quot;/&quot;"/>
+    <qresource prefix="/">
+        <file>../resources/minimal_wallpaper.png</file>
+        <file>../resources/Logomakr_9yI6eP.png</file>
+        <file>../LessonPDF/Lesson 0.png</file>
+        <file>../LessonPDF/Lesson 1.png</file>
+        <file>../LessonPDF/Lesson 2.png</file>
+        <file>../LessonPDF/Lesson 3.png</file>
+        <file>../LessonPDF/Lesson 4.png</file>
+        <file>../LessonPDF/Lesson 5.png</file>
+        <file>../LessonPDF/Lesson 6.png</file>
+        <file>../LessonPDF/Lesson 0_scaled.png</file>
+        <file>../LessonPDF/Lesson 1_scaled.png</file>
+        <file>../LessonPDF/Lesson 6_scaled.png</file>
+        <file>../LessonPDF/Lesson 5_scaled.png</file>
+        <file>../LessonPDF/Lesson 4_scaled.png</file>
+        <file>../LessonPDF/Lesson 3_scaled.png</file>
+        <file>../LessonPDF/Lesson 2_scaled.png</file>
+        <file>../resources/Logomakr_9MfoBC.png</file>
+        <file>../resources/french horn.png</file>
+        <file>../resources/guitar.png</file>
+        <file>../resources/harp.png</file>
+        <file>../resources/organ.png</file>
+        <file>../resources/piano.png</file>
+        <file>../resources/violin.png</file>
+        <file>../resources/xylophone.png</file>
+        <file>../resources/img_493343.png</file>
+        <file>../resources/flute.png</file>
+        <file>../LessonPDF/Lesson 0_scaledB.png</file>
+        <file>../resources/icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+# .gitignore file
+
+*.pro.user
+
+# User-specific folders
+bin
+libs
+build-ToneDeaf*
