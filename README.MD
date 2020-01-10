@@ -1,4 +1,4 @@
-#Tone Deaf Music Application
+# Tone Deaf Music Application
 Final project for CS 3505 at the University of Utah. Tone Deaf is a program that teaches users the basics on how to play piano as well as how to read sheet music through several lessons and playing tests.
 
 TO GET THIS WORKING ON YOUR END:
